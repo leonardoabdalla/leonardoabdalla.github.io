@@ -1,0 +1,68 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+          }
+        .picture {
+            background-image: url("trybeverde.png");
+            background-size: cover;
+            
+        }
+        .ol {
+            font-size: 20px;
+            padding: 50px;
+        }
+        .picture2 {
+            background-color:aliceblue;
+        }
+        p {
+            font-family: 'Yanone Kaffeesatz', sans-serif;
+            font-size: 24px;
+            margin-bottom: 10px;
+            list-style: square;
+            padding: 50px;
+        }
+        h1 {
+            font-family: 'Yanone Kaffeesatz', sans-serif;
+            font-size: 60px;
+            text-align: center;
+            margin: 40px auto;
+        }
+        #picture {
+            border-radius: 30%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        ul {
+            font-size: 20px;
+            padding: 50px;
+        }
+        .link {  
+        font: bold 15px/30px arial, helvetica, sans-aerif;	
+        text-decoration: none;
+        text-align:center;	
+        color:rgb(253, 251, 251);
+        background: rgb(8, 8, 8);	
+        width:160px;  
+        height:40px;	
+        border-radius: 25%;	
+        display: block;
+        margin-left: auto;
+        margin-right: 25%;
+        position: absolute;
+        right: 2%;
+            }
+        .link2 {  
+        font: bold 15px/30px arial, helvetica, sans-aerif;	
+        text-decoration: none;
+        text-align:center;	
+        color:rgb(253, 251, 251);
+        background: rgb(8, 8, 8);	
+        width:160px;  
+        height:40px;	
+        border-radius: 25%;	
+        display: block;
+        margin-left: 25%;
+        margin-right: auto;   
+            }
