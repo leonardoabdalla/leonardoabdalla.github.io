@@ -6,11 +6,13 @@
         .picture {
             background-image: url("trybeverde.png");
             background-size: cover;
-            
         }
-        .ol {
+        ol {
             font-size: 20px;
-            padding: 50px;
+            font-weight: bold;
+            padding: 5%;
+            text-decoration: none;
+            color:rgb(253, 251, 251);
         }
         .picture2 {
             background-color:aliceblue;
@@ -26,7 +28,7 @@
             font-family: 'Yanone Kaffeesatz', sans-serif;
             font-size: 60px;
             text-align: center;
-            margin: 40px auto;
+            margin: 2% auto;
         }
         #picture {
             border-radius: 30%;
@@ -36,7 +38,7 @@
         }
         ul {
             font-size: 20px;
-            padding: 50px;
+            padding: 5%;
         }
         .link {  
         font: bold 15px/30px arial, helvetica, sans-aerif;	
@@ -68,4 +70,8 @@
             }
         a:hover {
             background-color: blue;
+        }
+        .parte2 {
+            position: absolute;
+            top: 20%;
         }
