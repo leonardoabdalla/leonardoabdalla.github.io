@@ -30,7 +30,7 @@
             text-align: center;
             margin: 2% auto;
         }
-        #picture {
+        #picture1 {
             border-radius: 30%;
             display: block;
             margin-left: auto;
@@ -68,8 +68,14 @@
         margin-left: 25%;
         margin-right: auto;   
             }
-        a:hover {
-            background-color: blue;
+        .lista:hover {
+            padding: 20px;
+        }
+        .lista:active {
+            color: #118048;
+        }
+        .hover:hover {
+            background-color: #118048
         }
         .parte2 {
             position: absolute;
